@@ -36,6 +36,7 @@ header, main, footer {
   border-radius: 12px;
   padding: 18px;
   box-shadow: 0 8px 22px rgba(13, 42, 148, 0.08);
+  color: #0b1b3f;
 }
 .section {
   background: #ffffff;
@@ -44,6 +45,7 @@ header, main, footer {
   padding: 20px;
   margin: 16px 0;
   box-shadow: 0 6px 18px rgba(13, 42, 148, 0.05);
+  color: #0b1b3f;
 }
 h1, h2, h3, h4 { color: #0b2c7a; margin-top: 0; }
 ul { padding-left: 18px; }
